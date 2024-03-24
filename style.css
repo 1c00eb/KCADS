@@ -1,0 +1,53 @@
+#keep,#calm,#and,#design,#swag:hover{
+    cursor: grab;
+}
+
+
+#keep:active{
+    cursor: grabbing;
+}
+
+#calm:active{
+    cursor: grabbing;
+}
+
+#and:active{
+    cursor: grabbing;
+}
+
+#design:active{
+    cursor: grabbing;
+}
+
+#swag:active{
+    cursor: grabbing;
+}
+
+#esac:hover{
+    cursor:pointer;
+}
+
+#esac:active{
+    cursor:grabbing;
+}
+
+#bt{
+    width: 50vw;
+    
+    
+   
+}
+
+#titre{
+    margin-top: 2vw;
+    justify-content: center;
+    text-align: center;
+}
+.anima{
+    /* margin-top: 5vw;
+    margin-bottom: 5vw; */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+}
